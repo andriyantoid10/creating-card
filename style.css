@@ -1,0 +1,86 @@
+body{
+    background-color: #e4e4e4;
+    font-family: 'Poppins', sans-serif;
+}
+
+.container{
+    background-color: white;
+    margin: 55px auto; 
+    margin-top: 6%;
+    margin-left: 5%;
+    height: 1250px;
+    width: 1275px;
+    border-radius: 20px; 
+    box-shadow: 0 8px 8px #a3a6a8;"
+}
+
+.judul h1 {
+    font-size: 30px;
+    padding-top: 107px;
+    padding-left: 328px;
+}
+
+.lorem p {
+    font-size: large;
+    padding-left: 328px;
+    padding-right: 328px;
+    text-align: justify;
+    line-height: 1.4;
+    color: rgb(3, 3, 3);
+}
+
+.btn-contact {
+    background-color: rgb(50, 50, 65);
+    color: white;
+    border-radius: 20px;
+    margin-left: 325px;
+    margin-right: 850px;
+    text-align: center;
+    padding: 10px;
+}
+
+.download{
+    padding-left: 328px;
+    padding-top: 10px;
+    font-size: x-large;
+    color: rgb(31, 31, 31);
+}
+.download a {
+    margin: auto;
+    color: black;
+}
+.social {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    font-size: 25px;
+  }
+  
+  .fa-stack {
+    display: inline-block;
+  }
+  
+  .fa-stack:not(:last-child) {
+    margin-right: 10px;
+  }
+  
+  .card {
+    width: 400px;
+    border-radius: 5px;
+    overflow: hidden;
+    margin: auto;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, .5);
+  }
+  
+  .card img {
+    width: 100%;
+    
+  }
+  
+  .caption {
+    padding: 5px;
+    line-height: 5px;
+  }
+  
